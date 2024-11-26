@@ -19,3 +19,54 @@ o **App Developers**: To optimize app performance on specific devices and operat
 o **Data Analysts**: To generate actionable insights from user behaviour data.
 
 o **Customer Experience Teams**: To enhance user satisfaction by understanding pain points like high battery usage or excessive data consumption.
+
+### Project Initialization
+
+o **Project Title**: User Device Behaviour Analysis
+
+o **Objective**: The goal of this Power BI report is to analyse user behaviour based on device usage, battery consumption, data usage, and categorize users based on their behaviour classes.
+
+### Key Insights:
+
+o Identify device usage patterns.
+
+o Understand how different operating systems influence app usage and battery drain.
+
+o Analyse behaviour trends by age and gender
+
+### Features Descriptions
+
+o **User ID**: A unique identifier for each user.
+
+o **Device Model**: The model of the user's device.
+
+o **Operating System**: The operating system the device runs on (e.g., android, iOS).
+
+o **App Usage Time (hr/day)**: The total time spent using apps per day, in hours.
+
+o **Screen on Time (hours/day)**: The time the device screen is on, in hours per day.
+
+o **Battery Drain (mAh/day)**: The amount of battery consumed per day in milliampere-hour.
+
+o **Number of Apps Installed**: The total number of apps installed on the device.
+
+o **Data Usage (MB/day)**: Data consumed per day, in megabytes.
+
+o **Age**: Age of the user.
+
+o **Gender**: Gender of the user.
+
+o **User Behaviour Class**: A categorical class representing user behaviour.
+
+### Data Preparation
+
+o Dataset: Import the provided CSV file (user_behavior_dataset.csv) into Power BI. (Storage Mode : Import)
+
+### Data Cleaning:
+
+o Ensured there are no missing or null values.
+
+o Converted data types as needed (e.g., Age, App Usage Time, Battery Drain should be numeric).
+
+
+
