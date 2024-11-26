@@ -68,5 +68,11 @@ o Ensured there are no missing or null values.
 
 o Converted data types as needed (e.g., Age, App Usage Time, Battery Drain should be numeric).
 
+### Data Transformation
+
+o **Power Query Editor**:
+
+o I Loaded the dataset and checked for duplicates or unnecessary columns.
+
 
 
