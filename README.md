@@ -8,6 +8,12 @@
 
 ## [Potential Stakeholders](#potential-stakeholders)
 
+## [Project Initialization](#project-initialization)
+
+## [Key Insights](#key-insights)
+
+## [Features Descriptions](#features-descriptions)
+
 ### Project Description:
 ---
 Understanding how users interact with their devices is critical for improving user experience and optimizing app performance. This report provides insights into user behaviour patterns, such as app usage, battery consumption, and data usage, segmented by device type, operating system, age, and gender. It also categorizes users into behaviour classes, helping identify heavy or light users, which can guide product development and marketing strategies.
@@ -29,13 +35,13 @@ o **Data Analysts**: To generate actionable insights from user behaviour data.
 o **Customer Experience Teams**: To enhance user satisfaction by understanding pain points like high battery usage or excessive data consumption.
 
 ### Project Initialization
-
+---
 o **Project Title**: User Device Behaviour Analysis
 
 o **Objective**: The goal of this Power BI report is to analyse user behaviour based on device usage, battery consumption, data usage, and categorize users based on their behaviour classes.
 
 ### Key Insights:
-
+---
 o Identify device usage patterns.
 
 o Understand how different operating systems influence app usage and battery drain.
@@ -43,7 +49,7 @@ o Understand how different operating systems influence app usage and battery dra
 o Analyse behaviour trends by age and gender
 
 ### Features Descriptions
-
+---
 o **User ID**: A unique identifier for each user.
 
 o **Device Model**: The model of the user's device.
