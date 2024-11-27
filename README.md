@@ -74,5 +74,32 @@ o **Power Query Editor**:
 
 o I Loaded the dataset and checked for duplicates or unnecessary columns.
 
+###  Add calculated columns:
+
+o **Average App Usage per Hour**: Create a new column dividing App Usage Time by Screen on Time.
+
+o **Data Usage per App**: Divide Data Usage (MB/day) by Number of Apps Installed.
+
+### Data Model
+
+The dataset has a simple structure with no relationships, so no additional tables or data model adjustments are required unless additional datasets are introduced later.
+
+### Report Design
+
+**Visuals**:
+
+o **User Overview**:
+
+o **Card Visual**: Display total number of users.
+
+o **Pie Chart**: Breakdown by Gender.
+
+o **Bar Chart**: Count of users by Operating System.
+
+o **Device Usage Analysis**:
+
+o **Column Chart**: Display average App Usage Time across different device models.
+
+o **Clustered Bar Chart**: Show Battery Drain vs. Screen On Time by Device Model or Operating System.
 
 
