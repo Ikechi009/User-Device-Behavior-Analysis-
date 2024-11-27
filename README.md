@@ -18,6 +18,14 @@
 
 ## [Data Cleaning](#data-cleaning)
 
+## [Data Transformation](#data-transformation)
+
+## [Add calculated columns](#add-calculated-columns)
+
+## [Data Model](#data-model)
+
+## [Report Design}(#report-design)
+
 ### Project Description:
 ---
 Understanding how users interact with their devices is critical for improving user experience and optimizing app performance. This report provides insights into user behaviour patterns, such as app usage, battery consumption, and data usage, segmented by device type, operating system, age, and gender. It also categorizes users into behaviour classes, helping identify heavy or light users, which can guide product development and marketing strategies.
@@ -87,23 +95,23 @@ o Ensured there are no missing or null values.
 o Converted data types as needed (e.g., Age, App Usage Time, Battery Drain should be numeric).
 
 ### Data Transformation
-
+---
 o **Power Query Editor**:
 
 o I Loaded the dataset and checked for duplicates or unnecessary columns.
 
-###  Add calculated columns:
-
+### Add calculated columns:
+---
 o **Average App Usage per Hour**: Create a new column dividing App Usage Time by Screen on Time.
 
 o **Data Usage per App**: Divide Data Usage (MB/day) by Number of Apps Installed.
 
 ### Data Model
-
+---
 The dataset has a simple structure with no relationships, so no additional tables or data model adjustments are required unless additional datasets are introduced later.
 
 ### Report Design
-
+---
 **Visuals**:
 
 o **User Overview**:
