@@ -129,5 +129,5 @@ o **Column Chart**: Display average App Usage Time across different device model
 
 o **Clustered Bar Chart**: Show Battery Drain vs. Screen On Time by Device Model or Operating System.
 
-
+![User Device Behavior Dashboard](https://github.com/user-attachments/assets/b5fc517c-5821-4589-9ec4-05755894dddd)
 
