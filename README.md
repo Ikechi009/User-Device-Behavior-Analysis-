@@ -24,7 +24,8 @@
 
 ## [Data Model](#data-model)
 
-## [Report Design}(#report-design)
+## [Report Design](#report-design)
+
 
 ### Project Description:
 ---
