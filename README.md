@@ -14,6 +14,10 @@
 
 ## [Features Descriptions](#features-descriptions)
 
+## [Data Preparation](#data-preparation)
+
+## [Data Cleaning](#data-cleaning)
+
 ### Project Description:
 ---
 Understanding how users interact with their devices is critical for improving user experience and optimizing app performance. This report provides insights into user behaviour patterns, such as app usage, battery consumption, and data usage, segmented by device type, operating system, age, and gender. It also categorizes users into behaviour classes, helping identify heavy or light users, which can guide product development and marketing strategies.
@@ -73,11 +77,11 @@ o **Gender**: Gender of the user.
 o **User Behaviour Class**: A categorical class representing user behaviour.
 
 ### Data Preparation
-
+---
 o Dataset: Import the provided CSV file (user_behavior_dataset.csv) into Power BI. (Storage Mode : Import)
 
 ### Data Cleaning:
-
+---
 o Ensured there are no missing or null values.
 
 o Converted data types as needed (e.g., Age, App Usage Time, Battery Drain should be numeric).
